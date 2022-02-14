@@ -1,0 +1,4 @@
+./fingerd.py --login chayma --host 127.0.0.1
+
+fingerd.py : serveur
+fingercl.py : client
